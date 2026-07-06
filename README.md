@@ -42,8 +42,3 @@ GlideGo is a smart suitcase that autonomously follows its owner using real-time 
 - GPS tracking
 - Theft alert via wristband buzzer
 - Works in demo mode even without ESP32 connected
-
----
-
-## 🚀 How to Run
-1. Install dependencies:
